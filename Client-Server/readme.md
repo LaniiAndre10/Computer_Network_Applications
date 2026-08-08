@@ -1,0 +1,1 @@
+This is a basic implementation of the Client-Server model. This implementation showcases the code that enables the server to connect and communicate with the client. The client was simulated using PuTTy. In terms of context, the project simulates communication between NASA Mission Control and Rover spacecraft.
